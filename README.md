@@ -1,5 +1,5 @@
-# K-Means-Clustering-algorithm
-I built a K Means clustering ML model to classify mall customers into meaningful segments for business and marketing insights.
+# Customer segmentation by K-means Clustering 
+I built a K Means clustering ML model to separate mall customers into meaningful segments for business and marketing insights.
 ## Overview
 Understanding customer behavior is essential for improving marketing strategies, customer engagement and overall business performance.
 In this project I used K-Means clustering which is an unsupervised machine learning algorithm, to analyze mall customer data and identify distinct customer segments based on annual income and spending behavior.
