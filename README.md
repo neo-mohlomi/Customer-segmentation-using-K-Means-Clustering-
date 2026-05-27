@@ -52,11 +52,10 @@ I explored the data to understand customer characteristics and relationships bet
 ### 3. Determining Optimal Number of Clusters
 
 I used the Elbow Method to identify the appropriate number of customer groups.
-
+![Elbow_method](images/Elbow_method.png)
 ### 4. Customer grouping
-
 I applied K-Means clustering to classify customers into distinct groups based on their spending patterns and income levels.
-
+![customer_segmentation](images/customer_segmentation.png)
 ### 5. Visualization and Insights
 
 I visualized customer clusters to interpret customer behavior and business implications.
