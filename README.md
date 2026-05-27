@@ -155,7 +155,7 @@ General customer population with average purchasing behavior.
 ## 👨‍💻 Author
 
 **Neo Mohlomi**  
-*MSc Astrophysics | Data Science | Machine Learning*
+*Data Scientist | Machine Learning Enthusiast*
 
 ---
 
